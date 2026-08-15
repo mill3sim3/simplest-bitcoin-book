@@ -26,14 +26,14 @@ traiter les transactions gratuitement.*
 le potentiel de nous libérer tous de la manipulation
 et du contrôle omniprésents du système bancaire
 central
-* **Dans bitcoin, les règles monétaires sont les mêmes pour
+* **Dans Bitcoin, les règles monétaires sont les mêmes pour
 TOUT LE MONDE, PARTOUT.**
 * Bitcoin est inclusif, dans le sens où toute personne disposant d'une
 connexion internet peut participer au réseau,
 et **doit respecter les mêmes règles.**
 
 ---
-## bitcoin est :
+## Bitcoin est :
 * **DÉCENTRALISÉ**
 * **VRAIMENT RARE**
 * **RÉSISTANT À LA CENSURE**
@@ -47,7 +47,7 @@ et **doit respecter les mêmes règles.**
 * DIFFICILE À CONTREFAIRE
 * PSEUDONYME
 * SANS FRICTION
-* SANS CONFIANCE
+* SANS TIERS DE CONFIANCE
 * DE PAIR À PAIR
 ---
 * Bitcoin est décentralisé.
@@ -65,7 +65,7 @@ vérifiez vos propres transactions.
 
 ---
 * **Bitcoin est le grand incitatif.**
->* **Le génie de Satoshi était tel que dans bitcoin, pour
+>* **Le génie de Satoshi était tel que dans Bitcoin, pour
 la première fois, les bons et les mauvais acteurs sont incités à respecter les règles.**
 
 > *« L'incitation peut aider à encourager
@@ -160,11 +160,11 @@ J'espère qu'il est évident que c'était seulement la
 nature contrôlée centralement de ces
 systèmes qui les a condamnés.
 Je pense que c'est la première fois que nous essayons
-un système décentralisé, sans confiance.*
+un système décentralisé, sans tiers de confiance.*
 
 ~ Satoshi Nakamoto 2009-02-15
 ---
-* **Bitcoin est un REGISTRE DE COMPTES distribué, décentralisé, transparent
+* **Bitcoin est un REGISTRE COMPTABLE distribué, décentralisé, transparent
 et immuable.**
 * N'importe qui dans le monde peut voir qui possède quoi, à tout
 moment donné, et cela ne peut pas être changé.
@@ -189,7 +189,7 @@ paypal, la banque, venmo, cashapp, western union
 **TOUT EN UN !**
 
 ---
-* **Bitcoin est un conservateur de données qui utilise les mathématiques et
+* **Bitcoin est un système de tenue de registre qui utilise les mathématiques et
 l'informatique, au lieu des banquiers, des comptables
 et des experts-comptables.**
 * Il élimine les intermédiaires, les banques, les gouvernements, les frais de découvert,
@@ -246,7 +246,6 @@ votre énergie pour une utilisation ultérieure.*
 Et la racine du temps est la valeur*
 
 ~ Guy Swann
-
 ---
 * Bitcoin est une chaîne de temps, littéralement.
 * Satoshi a fait référence à la chaîne de temps à plusieurs reprises dans
@@ -284,7 +283,7 @@ l'offre maximale de 21 000 000.
 * Consultez **timechaincalendar.com** par @TC pour vérifier
 la hauteur actuelle des blocs, l'offre disponible et
 de nombreuses autres mesures concernant la
-chaîne de temps bitcoin.
+chaîne de temps Bitcoin.
 ---
 * **Bitcoin est infiniment divisible, sans déprécier
 l'offre.**
@@ -328,7 +327,7 @@ en moins durable, ce qui conduit à une grave panne.
 
 *Bien que vous ayez peut-être entendu parler de piratages, ce sont
 les échanges qui ont été piratés, pas
-le protocole bitcoin.
+le protocole Bitcoin.
 * **Rappelez-vous :**
 * Pas vos clés, pas vos pièces.
 * **Retirez toujours** vos sats vers votre **propre portefeuille.**
@@ -359,7 +358,7 @@ le protocole bitcoin.
 * immuabilité
 
 ... tous travaillant ensemble pour créer la confiance
-dans un environnement sans confiance, décentralisé,
+dans un environnement sans tiers de confiance, décentralisé,
 pour soutenir une
 
 * neutre
@@ -390,7 +389,7 @@ et
 **Une solution parfaite pour transférer et stocker
 le temps/la valeur.**
 
-* Les humains ont besoin de bitcoin, bitcoin a besoin des humains.
+* Les humains ont besoin de Bitcoin, Bitcoin a besoin des humains.
 ---
 * **Bitcoin est la solution au problème des généraux byzantins.**
 * On pensait autrefois que c'était un problème insoluble en
@@ -438,7 +437,7 @@ nouveau porteur.**
 
 * Il ne peut y avoir de portiers.
 ---
-* **Bitcoin est sans confiance.**
+* **Bitcoin est sans tiers de confiance.**
 >*Le problème fondamental avec la
 monnaie conventionnelle est toute la confiance qui est nécessaire
 pour la faire fonctionner. La banque centrale doit être
@@ -447,18 +446,18 @@ l'histoire des monnaies fiduciaires est pleine de
 violations de cette confiance.*
 
 ~ Satoshi Nakamoto sur l'importance de
-la nature sans confiance de Bitcoin.
+la nature sans tiers de confiance de Bitcoin.
 
 ---
 * **Bitcoin est du code.**
 * **Le code est la parole.**
 * Consultez github.com/bitcoin
-* **Ceci est actuellement le principal dépôt bitcoin.**
+* **Ceci est actuellement le principal dépôt Bitcoin.**
 * Cliquez pour voir le code, les demandes d'extraction,
-les revues, les commits, les bips (propositions d'amélioration
-de bitcoin) et les développeurs qui travaillent sur,
+les revues, les commits, les BIP (propositions d'amélioration
+de Bitcoin) et les développeurs qui travaillent sur,
 maintiennent et améliorent la
-création qu'est bitcoin.
+création qu'est Bitcoin.
 
 ---
 
@@ -491,7 +490,7 @@ que l'argent suive.**
 > * Un système de paiement
 > * Et la valeur elle-même est transférée.
 
-* En dehors de bitcoin, **la création de monnaie** (émission) et
+* En dehors de Bitcoin, **la création de monnaie** (émission) et
 **la comptabilité** (le suivi de l'argent reçu/dépensé),
 **est centralisée,** et comprend les couches distinctes suivantes :
 
@@ -504,7 +503,7 @@ en sécurité, ou qui maintiennent les bases de données informatiques
 * Les équipes de sécurité de confiance qui travaillent à prévenir
 le piratage des bases de données
 
-* Avec bitcoin, **toutes ces couches sont réunies en une seule !**
+* Avec Bitcoin, **toutes ces couches sont réunies en une seule !**
 * Bien que cela puisse sembler plus centralisé, le génie de Satoshi
 a fait en sorte que le contraire soit vrai.
 * C'est **100% décentralisé !**
