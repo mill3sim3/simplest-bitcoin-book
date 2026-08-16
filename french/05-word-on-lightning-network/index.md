@@ -1,6 +1,6 @@
 # UN MOT SUR LE LIGHTNING NETWORK
 * **Les blocs Bitcoin sont intentionnellement petits*** (1 Mo chacun),
-ce qui fait que la chaîne principale de bitcoin peut traiter environ 7 transactions par seconde (TPS).
+ce qui fait que la chaîne principale de Bitcoin peut traiter environ 7 transactions par seconde (TPS).
 * Visa traite environ 24 000 TPS.
 * De plus, **il faut généralement environ 10 minutes pour que la
 première confirmation soit validée sur une
@@ -25,9 +25,9 @@ et de petits appareils.*
 * The Blocksize War par Jonathan Bier
 ---
 
->* Entrez, le **Lightning Network (LN),** une **solution de mise à l'échelle
->bitcoin de niveau 2.**
->* **'Niveau 2'** signifie **qu'il est construit au-dessus de bitcoin.**
+>* Voici le **Lightning Network (LN),** une **solution de mise à l'échelle
+>de Bitcoin de niveau 2.**
+>* **'Niveau 2'** signifie **qu'il est construit au-dessus de Bitcoin.**
 >* **'Solution de mise à l'échelle'** signifie qu'elle permet au réseau de :
 >* **Augmenter considérablement la vitesse de traitement.**
 >* **Augmenter considérablement le nombre de transactions qu'il
@@ -35,7 +35,7 @@ et de petits appareils.*
 >* **Rendre les micropaiements possibles.**
 
 * Le Lightning Network peut être (en quelque sorte) considéré comme
-un onglet que vous pourriez garder avec des amis au bar.
+une ardoise que vous pourriez garder avec des amis au bar.
 * Vous gardez une trace entre vous tous de qui doit quoi
 (comme un canal Lightning Network), et à la fin
 de la soirée, votre groupe règle la note avec le barman
@@ -48,14 +48,14 @@ des jours, des semaines, des mois ou des années avant d'être
 ## AVANTAGES DE :
 * **VOLUME** - Le volume de transactions par seconde est
 en substance illimité, car d'innombrables canaux peuvent être
-ouverts en même temps, chacun conservant son propre
-‘onglet’.
-* **MICROPAYMENTS** - Vous pouvez envoyer aussi peu que 1
+ouverts en même temps, chacun conservant sa propre
+‘ardoise’.
+* **MICROPAIEMENTS** - Vous pouvez envoyer aussi peu que 1
 satoshi (actuellement 0,0006 $).
 * **VITESSE** - Il faut généralement entre une milliseconde et
 quelques secondes pour recevoir un paiement.
 * **VIE PRIVÉE** - Les transactions ne sont pas stockées sur la
-blockchain bitcoin ouverte et publique. À certains égards, c'est encore
+blockchain Bitcoin ouverte et publique. À certains égards, c'est encore
 plus privé que l'argent liquide, car avec Lightning,
 même l'autre partie ne sait pas nécessairement qui
 vous êtes, car votre paiement ‘saute’ souvent à travers
@@ -63,7 +63,7 @@ différents canaux pour atteindre le destinataire.
 
 Pour être clair, je ne dis pas qu'il est impossible à 100 % de
 découvrir, mais beaucoup plus que pour les paiements sur la
-chaîne principale de bitcoin.
+chaîne principale de Bitcoin.
 Il faudrait une quantité immense de temps et d'énergie
 pour établir avec certitude qui effectuait des paiements
 à qui, et il ne serait pas toujours possible de
