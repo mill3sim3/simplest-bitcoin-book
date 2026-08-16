@@ -23,11 +23,11 @@ en moyenne toutes les ~10 minutes.**
 
 1+8=**9**
 
-* 21 Millions de coins :
+* 21 millions de bitcoins :
 
 2 + 1 + 0 + 0 + 0 + 0 + 0 + 0 = **3**
 
-* 33 Halvings :
+* 33 halvings :
 
 3 + 3 =**6**
 
@@ -38,7 +38,7 @@ en moyenne toutes les ~10 minutes.**
 ~ D'après un tweet de @level39
 
 * La réduction de moitié de la récompense de bloc a lieu tous les
-210 000ème bloc (environ tous les quatre ans)
+210 000 blocs (environ tous les quatre ans)
 2 + 1 + 0 + 0 + 0 + 0 = **3**
 
 ---
@@ -119,8 +119,8 @@ bloc miné. **Une époque de récompense est cette période de quatre ans.**
 
 * ***Le 5 avril 1975*** est la date que Satoshi a revendiquée comme son
 anniversaire.
-* Bien que nous ne puissions pas savoir si c'était bien sa véritable date de naissance
-date, c'est très intéressant.
+* Bien que nous ne puissions pas savoir si c'était bien sa véritable date de naissance,
+c'est très intéressant.
 * ***Le 5 avril*** (1933) est le jour où le décret 6102
 a été signé par le président américain Franklin D. Roosevelt
 "interdisant la thésaurisation de pièces d'or, de lingots d'or,
@@ -148,10 +148,10 @@ dommages infligés par les excès du gouvernement.**
 * Le 22 mai est connu comme la Journée de la pizza Bitcoin. C'était le
 jour où un gars, nommé Laszlo Hanyecz, a annoncé
 sur bitcointalkforum.org qu'il avait réussi à
-échangé 10 000 bitcoins contre une pizza ! À l'époque, c'était
+échanger 10 000 bitcoins contre une pizza ! À l'époque, c'était
 environ 40 $.
 * Aux prix d'aujourd'hui, cela représenterait environ 610 000 000 $.
-* C'était une étape importante pour le bitcoin, en ce sens que c'était le premier
+* C'était une étape importante pour Bitcoin, en ce sens que c'était le premier
 incident connu d'une personne échangeant des bitcoins contre un
 bien ou un service. Quel chemin parcouru !
 
