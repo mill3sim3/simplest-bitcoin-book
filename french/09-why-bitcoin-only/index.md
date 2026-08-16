@@ -1,4 +1,4 @@
-# POURQUOI Bitcoin UNIQUEMENT ?
+# POURQUOI BITCOIN UNIQUEMENT ?
 Parmi les plus de 2,5 millions* (!) de cryptomonnaies jamais créées,
 et les 13 000 actuellement échangées, le bitcoin est le seul qui soit :
 
@@ -76,12 +76,12 @@ marché.
 ---
 
 ## SÉCURITÉ & ÉVITER LES ARNAQUES
-* **Restez-en au bitcoin uniquement.**
+* **Restez-en à Bitcoin uniquement.**
 * **Soyez super vigilant** concernant votre cybersécurité !
 * **Faites vos propres recherches** et **sécurisez votre bitcoin** avec
 le plus grand soin.
 
->* **NE DONNEZ JAMAIS vos mots de semence à quelqu'un à qui vous
+>* **NE DONNEZ JAMAIS les mots de votre phrase de récupération à quelqu'un à qui vous
 ne donneriez pas la clé de votre réserve d'or !**
 
 * **NE JAMAIS cliquer sur les liens** dans votre e-mail qui vous demandent
