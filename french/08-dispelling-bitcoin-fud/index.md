@@ -1,7 +1,7 @@
 # Dissiper la peur, l'incertitude et le doute (FUD) concernant Bitcoin
 
 * Voici quelques arguments courants contre, ou craintes
-à propos de bitcoin.
+à propos de Bitcoin.
 * Ceux-ci sont largement infondés, résultant de l'ignorance, ou peut-être d'une compréhension incomplète.
 * Je fournis de brèves réfutations à chacun ici, et à la fin
 vous trouverez des pointeurs vers des ressources plus approfondies
@@ -21,7 +21,7 @@ c'est coûteux semble assez inutile. Cependant, la valeur
 de la marchandise coûteuse et infalsifiable est ajoutée à plusieurs reprises en permettant
 des transferts de richesse bénéfiques. Une plus grande partie du coût est récupérée
 chaque fois qu'une transaction est rendue possible ou rendue
-moins cher. Le coût, initialement un gaspillage complet, est
+moins chère. Le coût, initialement un gaspillage complet, est
 amorti sur de nombreuses transactions.*
 
 ~ Nick Szabo
@@ -32,7 +32,7 @@ Cypherpunk
 
 * **« Trop » d'énergie est une proposition de valeur qui doit
 considérer comment nous évaluons le but de l'énergie
-utiliser.**
+utilisée.**
 
 * **Quand on considère que les lumières de Noël aux
 États-Unis utilisent autant d'électricité que l'ensemble du réseau Bitcoin,** alors peut-être que l'on peut voir que tout est relatif !
@@ -41,7 +41,7 @@ utiliser.**
 l'argent le plus dur et le plus résistant à la censure
 que l'humanité ait jamais connu, en vaut plus que la peine.
 
-* En comparant la consommation d'énergie de bitcoin à celle utilisée par
+* En comparant la consommation d'énergie de Bitcoin à celle utilisée par
 l'ancien système, nous devons également considérer la « pile
 complète » des deux côtés :
 
@@ -57,8 +57,8 @@ complète » des deux côtés :
 |                      | Applications bancaires en ligne         |
 |                      | Réseau de guichets automatiques             |
 
-* En utilisant bitcoin, nous allons finalement réduire l'énergie
-utilisation dans une multitude d'autres domaines, notamment
+* En utilisant Bitcoin, nous allons finalement réduire l'énergie
+utilisée dans une multitude d'autres domaines, notamment
 en n'ayant plus besoin du complexe militaro-industriel
 pour protéger le pétro-dollar
 
@@ -66,7 +66,7 @@ pour protéger le pétro-dollar
 
 * De plus, le consumérisme effréné qui est nécessaire pour
 maintenir le système basé sur la dette à flot, sera avec le temps
-être réduit, car **l'argent dur incite naturellement
+réduit, car **l'argent dur incite naturellement
 à des dépenses et à une épargne prudentes** (puisque votre épargne
 conservera réellement sa valeur, un concept que nous n'avons pas
 connu depuis que nous avons quitté l'étalon-or).
@@ -77,7 +77,7 @@ de faibles coûts d'électricité, il est également probable que ce soit le plu
 moteur vers une énergie renouvelable à faible coût, puisque les
 incitations correspondent.
 * **Des analyses approfondies et éclairées sur Bitcoin et l'énergie** ont
-été écrits par Daniel Batten sur batcoinz.com, Troy
+été écrites par Daniel Batten sur batcoinz.com, Troy
 Cross, Jyn Urso, la vidéo « This Machine Greens »
 par Swan Bitcoin sur YouTube, « Dirty Coin », un
 documentaire sur l'extraction de bitcoin, et un
@@ -98,31 +98,31 @@ excellent épisode de l'émission « What is Money »
 pour en savoir plus.
 
 ## BITCOIN EST TROP LENT
-* Bien que la couche de base Bitcoin soit lente, la 2ème couche
-**Le Lightning Network construit sur la couche de base est…
+* Bien que la couche de base Bitcoin soit lente, la 2ème couche,
+**le Lightning Network construit sur la couche de base, est…
 rapide comme l'éclair !**
 * Le réseau Bitcoin peut traiter environ 7
 transactions par seconde (TPS).
 * Le réseau Visa prétend pouvoir traiter jusqu'à 24 000
 TPS, bien que 4 000 TPS soient plus proches de l'utilisation réelle.
 * **Le Lightning Network, une solution de deuxième couche
-construit sur Bitcoin, a la capacité potentielle de
+construite sur Bitcoin, a la capacité potentielle de
 traiter des millions de transactions par seconde !**
 
 ---
 
 ## LES GOUVERNEMENTS POURRAIENT INTERDIRE BITCOIN
 * Certains gouvernements ont essayé, comme la Chine, l'Inde et
-Le Nigéria par exemple. Dans chaque cas, l'utilisation de bitcoin
-augmente rapidement par les habitants de ce pays
-* **Il n'y a aucun moyen pour les gouvernements de véritablement « interdire » bitcoin,** car il est par nature sans permission et résistant à la censure. C'est du code et le code est un discours.
+le Nigéria par exemple. Dans chaque cas, l'utilisation de Bitcoin
+augmente rapidement parmi les habitants de ce pays
+* **Il n'y a aucun moyen pour les gouvernements de véritablement « interdire » Bitcoin,** car il est par nature sans permission et résistant à la censure. C'est du code et le code est un discours.
 * Cela dit, les gouvernements peuvent rendre plus difficile l'achat
-et la vente avec, et en monnaie fiduciaire. Ils peuvent également le taxer comme un
+et la vente avec, et en monnaie fiduciaire. Ils peuvent également le taxer comme une
 marchandise, comme ils le font aux États-Unis.
-* **En fin de compte, il ne sera pas dans leur intérêt d'essayer d'interdire
-il, puisque bitcoin est inévitable et qu'ils commencent
-à le voir.** Ils seraient bien plus intelligents de l'ajouter à
-le bilan de leur pays comme couverture contre leur
+* **En fin de compte, il ne sera pas dans leur intérêt d'essayer de l'interdire,
+puisque Bitcoin est inévitable et qu'ils commencent
+à le voir.** Ils seraient bien plus intelligents de l'ajouter au
+bilan de leur pays comme couverture contre leurs
 monnaies fiduciaires gonflées.
 
 >*Les gouvernements sont bons pour couper les
@@ -167,10 +167,10 @@ Crédit : @DecouvreBitcoin
 ## BITCOIN EST UTILISÉ PAR DES CRIMINELS
 * **C'est aussi le cas du dollar, et de toutes les autres monnaies fiduciaires du
 monde.** Il est tout simplement incorrect d'attribuer ce
-problème uniquement à bitcoin.
+problème uniquement à Bitcoin.
 * **Bitcoin est un outil, tout comme un couteau, et c'est à chacun
-de nous comment nous l'utilisons.**
-* Il est intéressant de noter que si bitcoin ne pouvait pas être utilisé par des criminels,
+de nous de décider comment nous l'utilisons.**
+* Il est intéressant de noter que si Bitcoin ne pouvait pas être utilisé par des criminels,
 alors ce ne serait pas l'argent neutre et résistant à la censure
 dont le monde a tant besoin.
 * **Remarque :** Puisque la blockchain Bitcoin est auditable, c'est
@@ -178,13 +178,13 @@ en fait un très mauvais choix pour l'activité criminelle !
 
 ## L'INFORMATIQUE QUANTIQUE POURRAIT BRISER BITCOIN
 * Bien que cela puisse être une possibilité un jour dans le futur,
-**les développeurs travaillent déjà sur des solutions pour le cryptage post-quantique**
+**les développeurs travaillent déjà sur des solutions pour le chiffrement post-quantique**
 * Bitcoin n'est qu'une des nombreuses applications en ligne qui reposent sur le hachage SHA-256 pour la sécurité.
-Même l'armée l'utilise, il existe donc une incitation massive au-delà de la communauté bitcoin à développer de nouveaux
-protocoles de cryptage.
+Même l'armée l'utilise, il existe donc une incitation massive au-delà de la communauté Bitcoin à développer de nouveaux
+protocoles de chiffrement.
 * Si SHA-256 est cassé, nous aurons beaucoup d'autres choses à
-nous inquiéter au-delà de bitcoin. L'ensemble d'Internet l'utilise
-pour le cryptage. Cela inclut toutes les banques, la chaîne
+nous inquiéter au-delà de Bitcoin. L'ensemble d'Internet l'utilise
+pour le chiffrement. Cela inclut toutes les banques, la chaîne
 d'approvisionnement, les systèmes de transport, les systèmes de santé,
 les systèmes éducatifs et plus encore.
 
@@ -201,10 +201,10 @@ valorisé parce qu'il avait une certaine mesure de rareté.**
 * De plus, il était soutenu par la conviction qu'il
 conserverait sa valeur, de sorte qu'il pourrait être échangé dans le
 futur contre autre chose de valeur.
-* À mesure que le réseau Bitcoin se développe, soutenu par le supérieur
-propriétés monétaires qu'il incarne, l'effet de réseau
+* À mesure que le réseau Bitcoin se développe, soutenu par les
+propriétés monétaires supérieures qu'il incarne, l'effet de réseau
 croît exponentiellement
-* Plus l'effet de réseau est important, plus la valeur qu'il offre, en tant que
+* Plus l'effet de réseau est important, plus la valeur qu'il offre, en tant qu'
 actif rare, est grande. La valeur est un reflet de la demande,
 et à mesure que la demande augmente, la valeur augmente.
 
@@ -214,7 +214,7 @@ et à mesure que la demande augmente, la valeur augmente.
 * Il est vrai que certaines personnes en ont beaucoup plus que d'autres.
 **En publiant le protocole ouvertement, Satoshi lui a permis de
 se déplacer librement, et ceux qui ont compris le potentiel
-qu'il détenait soit miné, soit acheté tôt. C'était le
+qu'il détenait l'ont soit miné, soit acheté tôt. C'était le
 moyen le plus juste et le plus organique possible de le présenter
 au monde.**
 * Avec le temps, lorsque le monde sera hyperbitcoinisé, ce qui signifie que nous vivons sur un étalon bitcoin, ceux qui
@@ -241,14 +241,14 @@ ne peut être dévalué ou manipulé !**
 * **C'est normal pendant la phase de découverte des prix d'un
 nouvel actif monétaire.** Il n'y a pas d'autre moyen pour que
 la croissance se produise quand elle est organique et émergente
-(par opposition à descendant et contrôlé de manière centralisée).
+(par opposition à descendante et contrôlée de manière centralisée).
 * De plus, à ce stade de l'existence humaine, avec
 des changements exponentiels se produisant dans toutes les sphères, il est logique
-que quelque chose d'aussi rEVOLutionnaire que bitcoin aura
+que quelque chose d'aussi rEVOLutionnaire que Bitcoin ait
 des fluctuations sauvages.
-* Bien que ceux d'entre nous qui sont profondément dans le trou du lapin le voient
+* Bien que ceux d'entre nous qui sont profondément dans le terrier du lapin le voient
 comme l'avenir, actuellement seul un petit pourcentage de la
-population mondiale détient bitcoin à ce jour. Ceci
+population mondiale détient du bitcoin à ce jour. Ceci
 le rend vulnérable à une immense volatilité.
 * À mesure qu'il mûrit et que l'adoption augmente, la volatilité diminuera, et finalement il se stabilisera et
 deviendra une unité de compte.
@@ -270,16 +270,16 @@ n'est pas physique est l'un des plus grands facteurs contribuant à son inconfis
 
 * Au cours des 15 années depuis son lancement, il n'a jamais
 été piraté.
-* Il y a eu des piratages sur les bourses cependant, donc je
+* Il y a eu des piratages sur les plateformes d'échange cependant, donc je
 recommande fortement de déplacer votre bitcoin vers votre propre
-portefeuille d'auto-garde dès que possible.
-* On a estimé que pour casser le cryptage SHA-256
-(que bitcoin utilise) dans les 24 heures, un
+portefeuille en auto-garde dès que possible.
+* On a estimé que pour casser le chiffrement SHA-256
+(que Bitcoin utilise) dans les 24 heures, un
 ordinateur quantique aurait besoin de 13 000 000 de qubits physiques.
 À ce jour, le record actuel de qubits détenu
 par Atom Computing en Californie est de 1 180 qubits.
-* On suppose largement qu'une méthode de cryptage
-quantique sûre sera développée bien avant qu'elle ne soit nécessaire.
+* On suppose largement qu'une méthode de chiffrement
+résistante au quantique sera développée bien avant qu'elle ne soit nécessaire.
 
 >*Être open source signifie que n'importe qui peut
 examiner indépendamment le code. S'il était
