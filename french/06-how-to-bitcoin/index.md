@@ -3,7 +3,7 @@
 >**To Bitcoin:** (verbe) /tuːˈbɪtkɔɪn/
 Je propose par la présente de faire de « bitcoiner » un verbe,
 qui englobe toute la plénitude de la participation
-dans l'écosystème bitcoin/Bitcoin.
+dans l'écosystème Bitcoin.
 
 * Ok, maintenant que vous avez, espérons-le ;) été converti, et que vous êtes prêt à devenir votre propre banque, en participant à la première monnaie mondiale de la liberté,
 voici la partie amusante !
@@ -15,7 +15,7 @@ voici la partie amusante !
 vraiment, véritablement saisir ce que cela signifie.
 * Une certaine **intention et un certain dévouement sont nécessaires pour
 comprendre comment le faire de la manière la plus sûre possible.**
-* Dans l'esprit de faire de ce livre « le livre sur le bitcoin le plus simple jamais écrit », je vais fournir un
+* Dans l'esprit de faire de ce livre « le livre sur Bitcoin le plus simple jamais écrit », je vais fournir un
 plan ici, puis je vous offre des ressources à la fin
 pour que vous puissiez plonger dans des sujets beaucoup plus approfondis que
 la portée de cette introduction.
@@ -42,7 +42,7 @@ bitcoins qu'ils reçoivent en récompense,** afin de payer
 leurs coûts d'exploitation.
 * **Vous pouvez acquérir des bitcoins en achetant sur une plateforme d'échange de pair à pair, en les acceptant comme paiement pour
 les biens ou services que vous offrez, comme cadeau, ou en les minant.** (Un tout dernier recours, non recommandé, est de l'acheter
-auprès d'une bourse enregistrée).
+auprès d'une plateforme d'échange enregistrée).
 * Lorsque vous le recevez, vous recevez techniquement les
 clés privées avec lesquelles accéder à votre bitcoin.
 > * **Rappelez-vous :** Le bitcoin lui-même ne quitte jamais la
@@ -51,7 +51,7 @@ clés privées avec lesquelles accéder à votre bitcoin.
 * Vous pouvez acquérir des bitcoins soit anonymement, soit
 avec vérification d'identité (KYC - Know Your Customer).
 
-* La KYC est exigée par la loi pour se conformer aux lois AML (lois anti-blanchiment d'argent) lors de l'achat auprès des bourses.
+* Le KYC est exigé par la loi pour se conformer aux lois AML (lois anti-blanchiment d'argent) lors de l'achat auprès des plateformes d'échange.
 
 >* L'achat de bitcoins non-KYC **préserve votre droit à
 la vie privée à l'avenir.**
@@ -63,7 +63,7 @@ la vie privée à l'avenir.**
 
 RECOMMANDÉ
 
->1. Téléchargez une application de portefeuille uniquement bitcoin (voir page 102).
+>1. Téléchargez une application de portefeuille uniquement Bitcoin (voir page 102).
 >2. Choisissez une méthode (voir ci-dessous).
 >3. Achetez, recevez ou minez des bitcoins.
 >4. Retirez vos bitcoins dans votre portefeuille.
@@ -76,7 +76,7 @@ numéro (vous pouvez utiliser un numéro de téléphone temporaire).
 * **Achetez un bon Azteco** - Visitez azte.co pour connaître les emplacements.
 * **Gagnez-le pour le travail que vous faites** - Demandez à être payé en bitcoins.
 Proposez de réduire votre prix.
-* **Achetez-le en personne lors d'une rencontre bitcoin.**
+* **Achetez-le en personne lors d'une rencontre Bitcoin.**
 * **Minez-le** - Il est de plus en plus facile de miner à la maison, ou
 vous pouvez rejoindre un pool de minage, mais alors DYOR pour rester
 sans KYC. Ocean Pool est une excellente option.
@@ -89,10 +89,10 @@ sans KYC. Ocean Pool est une excellente option.
 
 NON RECOMMANDÉ
 
->1. Téléchargez une application de portefeuille uniquement bitcoin (voir page 102).
->2. Choisissez une bourse uniquement bitcoin.
+>1. Téléchargez une application de portefeuille uniquement Bitcoin (voir page 102).
+>2. Choisissez une plateforme d'échange uniquement Bitcoin.
 >3. Créez un compte et associez un mode de paiement.
->4. Remplissez les exigences de la KYC.
+>4. Remplissez les exigences du KYC.
 >5. Achetez des bitcoins.
 >6. **Retirez vos bitcoins dans votre propre portefeuille.**
 >7. HODL, ou dépensez et remplacez.
@@ -100,14 +100,14 @@ NON RECOMMANDÉ
 * **Soyez conscient que vos bitcoins seront liés à jamais à
 votre identité** si vous l'achetez de cette façon, renonçant ainsi à
 l'anonymat futur en ce qui concerne ces achats.
-* Si vous choisissez cette méthode, je vous recommande de trouver un
-***bourse uniquement bitcoin*** réputée
-* ***Assurez-vous que la bourse vous permet de retirer vos
+* Si vous choisissez cette méthode, je vous recommande de trouver une
+***plateforme d'échange uniquement Bitcoin*** réputée
+* ***Assurez-vous que la plateforme vous permet de retirer vos
 bitcoins dans votre propre portefeuille !***
-* **Les bourses sont tenues par la loi de vous « KYCiser ».**
-* Ils prendront **votre nom complet, votre adresse, votre numéro de sécurité sociale, votre courriel, votre numéro de téléphone et souvent une photo de
+* **Les plateformes d'échange sont tenues par la loi de vous soumettre au KYC.**
+* Elles prendront **votre nom complet, votre adresse, votre numéro de sécurité sociale, votre courriel, votre numéro de téléphone et souvent une photo de
 vous tenant votre pièce d'identité.**
-* **Confirmez que la bourse a à la fois un soutien téléphonique et un soutien par courriel
+* **Confirmez que la plateforme a à la fois une assistance téléphonique et une assistance par courriel
 pour le service à la clientèle.**
 
 ---
@@ -125,7 +125,7 @@ que vous puissiez assurer vous-même la garde de vos bitcoins
 
 * Si vous voulez acheter par l'intermédiaire de Venmo ou de Paypal, assurez-vous de
 **d'abord confirmer que vous pouvez toujours retirer
-vos sats dans votre propre portefeuille auto-hébergé.** Dans le
+vos sats dans votre propre portefeuille en auto-garde.** Dans le
 passé, vous ne pouviez pas le faire.
 * Comme ils disent :
 > **« Pas de clés, pas de fromage »** ou
@@ -139,7 +139,7 @@ subissent une capture réglementaire et que vous perdiez vos
 bitcoins.
 
 >* **Retirez toujours vos bitcoins dans votre propre
-portefeuille auto-hébergé dès que vous l'avez
+portefeuille en auto-garde dès que vous l'avez
 acheté.**
 
 ---
@@ -160,14 +160,14 @@ billets n'a jamais augmenté avec le prix gonflé de l'or.
 abrogé,** et pour que les citoyens privés soient à nouveau
 autorisés à détenir plus de 5 oz d'or.
 * À ce stade, nous avons peu d'idée de la façon dont les régulateurs
-vont réagir au bitcoin à mesure qu'il continue de
+vont réagir à Bitcoin à mesure qu'il continue de
 gagner en popularité et d'être adopté plus largement.
 * Jusqu'à présent, l'accueil a été mitigé. Pour le
 moment, cependant, il semble que beaucoup
-comprennent, ou peut-être acceptent simplement, que le bitcoin
+comprennent, ou peut-être acceptent simplement, que Bitcoin
 ne peut finalement pas être arrêté.
 * Il y a un certain nombre de politiciens qui commencent à parler
-en faveur du bitcoin dans le cadre de leur plateforme.
+en faveur de Bitcoin dans le cadre de leur plateforme.
 Il y en a aussi qui sont contre.
 * Étant une année électorale aux États-Unis, 2024 est très
 intéressante, car les trois principaux candidats à la présidence
@@ -177,7 +177,6 @@ Il sera intéressant de voir quel pays sera le prochain.
 
 >* **En fin de compte, il serait dans l'intérêt de chaque gouvernement de l'adopter et de l'ajouter à son bilan, afin de se prémunir contre l'inflation rapide de leurs
 monnaies fiduciaires.**
-
 ---
 
 ## STOCKER SÉCURISÉMENT LES BITCOINS
@@ -188,7 +187,7 @@ monnaies fiduciaires.**
 >* Cela doit être pris **au sérieux**.
 * ***Veuillez DYOR - Faites vos propres recherches * au-delà de
 mes recommandations de base ici.**
-* **L'écosystème bitcoin évolue à chaque minute.**
+* **L'écosystème Bitcoin évolue à chaque minute.**
 * Nostr, Twitter et bitcointalk.org sont de bons
 endroits pour se tenir au courant des derniers développements.
 
@@ -203,16 +202,16 @@ endroits pour se tenir au courant des derniers développements.
 
 ## PORTEFEUILLES UNIQUEMENT BITCOIN
 * Les bitcoins sont mieux stockés dans votre propre
- * **auto-hébergé**
+ * **portefeuille en auto-garde**
  * **non-custodial**
- * **portefeuille « uniquement bitcoin »**
+ * **portefeuille « uniquement Bitcoin »**
 
 * Un « portefeuille » est en fait un logiciel qui est un
 dispositif de signature. Il contient vos clés privées qu'il
 utilise pour signer une transaction que vous envoyez (diffusez).
 
 ## PORTEFEUILLE CHAUD
-* **Il s'agit d'une application de portefeuille bitcoin en ligne que vous téléchargez sur votre téléphone ou votre ordinateur.**
+* **Il s'agit d'une application de portefeuille Bitcoin en ligne que vous téléchargez sur votre téléphone ou votre ordinateur.**
 * Il est préférable de l'utiliser pour les petites sommes, pour les dépenses quotidiennes.
 ## PORTEFEUILLE DE STOCKAGE FROID
 * **Il s'agit d'un portefeuille hors ligne.** Aussi connu sous le nom de portefeuille matériel.
@@ -253,7 +252,7 @@ Blockstream Jade, Seed Signer, Bitbox,
 
 >* **ACHETEZ TOUJOURS** votre portefeuille de stockage froid **directement
 auprès du fabricant,** pour être certain qu'il n'a pas été
-frelaté.
+altéré.
 
 ---
 
@@ -262,20 +261,20 @@ frelaté.
 tutoriels sur la configuration du portefeuille, et bien plus encore.
 
 >* Lors de la configuration de votre portefeuille, assurez-vous d'***écrire
->la phrase de départ de 12 ou 24 mots sur papier.***
+>la phrase de récupération de 12 ou 24 mots sur papier.***
 >* ***Gardez-la hors ligne. Ne prenez jamais de capture d'écran de celle-ci.***
->* **CONSERVEZ LA PHRASE DE DÉPART TRÈS SÉCURISÉMENT.**
+>* **CONSERVEZ LA PHRASE DE RÉCUPÉRATION TRÈS SÉCURISÉMENT.**
 >* **TRÈS, TRÈS SÉCURISÉMENT !**
 
-* **De nombreuses entreprises fabriquent des plaques métalliques de départ dans lesquelles
-vous pouvez poinçonner votre phrase de départ pour une protection supplémentaire contre le feu, l'eau et les dommages. Fortement recommandé !**
+* **De nombreuses entreprises fabriquent des plaques métalliques dans lesquelles
+vous pouvez poinçonner votre phrase de récupération pour une protection supplémentaire contre le feu, l'eau et les dommages. Fortement recommandé !**
 * Si vous perdez l'accès à votre portefeuille chaud ou froid,
-vous pouvez le restaurer avec la phrase de départ et récupérer
+vous pouvez le restaurer avec la phrase de récupération et récupérer
 vos fonds.
 * Vous pouvez le faire sur n'importe quel portefeuille qui prend en charge le même
-type de phrase de départ BIP39 (12/24 mots).
-* La meilleure pratique serait de stocker le descripteur de portefeuille de votre portefeuille en plus de votre départ.
->* **RAPPELEZ-VOUS : Quiconque a votre départ a
+type de phrase de récupération BIP39 (12/24 mots).
+* La meilleure pratique serait de stocker le descripteur de portefeuille de votre portefeuille en plus de votre phrase de récupération.
+>* **RAPPELEZ-VOUS : Quiconque a votre phrase de récupération a
 accès à vos bitcoins !**
 
 ---
