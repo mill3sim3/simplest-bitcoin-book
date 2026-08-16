@@ -1,4 +1,4 @@
-# RESSOURCES POUR LE TROU DU LAPIN BITCOIN
+# RESSOURCES POUR LE TERRIER DU LAPIN BITCOIN
 « De plus en plus curieux ! » dit Alice
 
 ## FILMS
@@ -36,7 +36,7 @@
 
 ## LIVRES
 **Sur Bitcoin :**
-* **Layered Money** par Nik Batia
+* **Layered Money** par Nik Bhatia
 * **21 Lessons** par DerGigi
 * **The Bullish Case for Bitcoin** par Vijay Boyapati
 * **The Bitcoin Standard** par Saifedean Ammous
@@ -47,7 +47,7 @@
 * **The Bitcoin Dictionary** par Ansel Lindner
 * **The Genesis Book** par Aaron van Wirdum
 * **Gradually, then Suddenly** par Parker Lewis
-* **Cryptosovereignty** par Eric Cason
+* **Cryptosovereignty** par Erik Cason
 
 **Sur la monnaie fiduciaire, l'histoire monétaire et plus encore :**
 * **The Price of Tomorrow** par Jeff Booth
@@ -92,7 +92,7 @@ Si ce n'est pas encore sur Fountain, trouvez-les sur Spotify et iTunes.**
 * Casebitcoin.com
 * Bitcoiner.guide
 * Bitcoin.tv
-* Learnmeabitcoin.com - Excellent explicateur simple de la technologie btc !
+* Learnmeabitcoin.com - Excellent explicateur simple de la technologie Bitcoin !
 * Hope.com
 * Bitcoin-resources.com
 * Myfirstbitcoin.io (Disponible en espagnol également)
@@ -113,7 +113,7 @@ Si ce n'est pas encore sur Fountain, trouvez-les sur Spotify et iTunes.**
 ---
 
 ## BT ~ BITCOIN TWITTER
-Quelques cypherpunks, génies, chèvres et fous à suivre !
+Quelques cypherpunks, génies, pointures et fous à suivre !
 Grâce à ces comptes, vous trouverez des milliers de plébéiens
 et autres penseurs profonds,
 tous en voyage.
@@ -133,7 +133,7 @@ rien de tout cela ne serait possible.
 Nous tous
 ensemble,
 déchaînés,
-comme bitcoin a été déchaîné sur nous,
+comme Bitcoin a été déchaîné sur nous,
 une bénédiction au-delà de toute mesure.
 
 
@@ -145,7 +145,7 @@ Développeurs principaux, Communautés Bitcoin, l'avenir de Bitcoin et plus enco
 
 **Attention :** Il est utile d'avoir une peau un peu épaisse sur Twitter,
 et sachez ceci, il y a beaucoup de passion dans la défense de
-bitcoin. Garder une ligne claire entre lui et tous les
+Bitcoin. Garder une ligne claire entre lui et tous les
 altcoins demande du travail. Maintenir la clarté, la sécurité et
 la pureté de la seule monnaie saine que le monde ait jamais
 connue est essentiel, si nous voulons avoir une chance en ces temps
