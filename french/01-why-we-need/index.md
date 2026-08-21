@@ -54,7 +54,7 @@ fred.stlouisfed.org/series/CPIAUCSL, June 9, 2024.</small>
 
 ~ merriam-webster.com/dictionary
 
->**FIAT :** du latin fieri « être fait, naître »
+>**FIAT :** du latin fieri « être fait, naître »
 
 * La monnaie fiduciaire est une monnaie qui n'a de valeur que parce que le gouvernement dit (décrète) qu'elle en a.
 * Par conséquent, les gens (doivent) croire qu'elle en a.
@@ -114,7 +114,7 @@ Article de Forbes, 18 mars 2020
 
 ---
 
-## DE LA BOUCHE DU CHEVAL D'ANTAN
+## DE LA BOUCHE MÊME DES ANCIENS
 
 >*La banque profite des intérêts sur toutes les sommes
 qu'elle crée à partir de rien.*
@@ -143,7 +143,7 @@ rendu au peuple à qui il appartient légitimement.*
 
 >*Tout en nous vantant de nos nobles actions, nous avons pris soin de dissimuler le fait laid qu'au moyen d'un système monétaire inique, nous avons nationalisé un
 système d'oppression qui, bien que plus raffiné, n'est
-pas moins cruel que l'ancien système d'esclavage mobilier.*
+pas moins cruel que l'ancien système d'esclavage.*
 
 ~Horace Greeley
 Membre du Congrès américain 1848-49
@@ -178,8 +178,7 @@ Président de la National City Bank de New York
 Jekyll Island en 1910, pour rédiger le projet de loi qui a été adopté sous le nom de
 Federal Reserve Act en 1913.
 
->*Cette loi (Federal Reserve) établit la fiducie la plus gigantesque sur
-terre. Lorsque le président (Woodrow Wilson) signera le projet de loi, le
+>*Cette loi (Federal Reserve) établit le plus gigantesque trust au monde. Lorsque le président (Woodrow Wilson) signera le projet de loi, le
 gouvernement invisible du pouvoir monétaire sera légalisé...
 Le pire crime législatif des âges est perpétré
 par ce projet de loi bancaire et monétaire.*
@@ -193,8 +192,8 @@ Membre du Congrès américain 1907-1917
 Une grande nation industrielle est contrôlée par son système de crédit.
 Notre système de crédit est concentré. La croissance de la nation,
 par conséquent, et toutes nos activités sont entre les mains de quelques hommes.
-Nous sommes devenus l'un des pays les plus mal gouvernés, l'un des pays les plus
-complètement contrôlés et dominés par les gouvernements du monde civilisé. Ce n'est plus un gouvernement d'opinion libre, ce n'est plus un
+Nous sommes devenus l'un des pays les plus mal gouvernés, l'un des gouvernements les plus
+complètement contrôlés et dominés du monde civilisé. Ce n'est plus un gouvernement d'opinion libre, ce n'est plus un
 gouvernement de conviction et du vote de la majorité, mais un
 gouvernement de l'opinion et de la contrainte d'un
 petit groupe d'hommes dominants.*
@@ -204,8 +203,8 @@ petit groupe d'hommes dominants.*
 6 ans après l'adoption de la loi sur la Réserve fédérale de 1913.
 
 >*La vérité, comme vous et moi le savons,
-est qu'un élément financier dans les grands centres
-possède le gouvernement des États-Unis depuis
+est qu'un pouvoir financier dans les grands centres
+contrôle le gouvernement des États-Unis depuis
 l'époque d'Andrew Jackson.*
 
 ~ Franklin D. Roosevelt
@@ -238,7 +237,7 @@ il n'y aurait pas d'argent*
 
 >*Je n'ai encore jamais rencontré quelqu'un qui puisse, par l'utilisation
 de la logique et du raisonnement, justifier le fait que le gouvernement fédéral
-emprunte l'utilisation de son propre argent...
+emprunte sa propre monnaie...
 Je crois que le moment viendra où les gens
 exigeront que cela soit changé.
 Je crois que le moment viendra dans ce pays où
@@ -316,7 +315,7 @@ internationaux, la BRI (la banque des banques centrales).
 prêter 90 %.
 * **Depuis mars 2020, aucune réserve n'est requise, ce qui permet aux banques d'accorder des prêts illimités.**
 
-* Un prêt est une monnaie basée sur la dette, et vous êtes tenu de
+* Un prêt crée de la monnaie fondée sur la dette, et vous êtes tenu de
 payer des intérêts sur le prêt.
 
 >* **Anecdote amusante 1 :** L'argent pour payer les intérêts sur le
@@ -397,7 +396,7 @@ faire le voyage et de construire un nouveau monde avec la Monnaie
 de la Paix.
 >* **Bitcoin répare la monnaie, il nous appartient de réparer le reste.
 Et, pour être clair, en réparant la monnaie, BEAUCOUP
-d'autres choses seront réparées, par défaut.**
+d'autres choses seront réparées, de fait.**
 
 * La principale étant que la guerre cinétique à grande échelle, initiée par le gouvernement, ne sera plus rentable, ni possible, sans le soutien du peuple.
 * De plus, il y aura naturellement moins de consommation,
@@ -414,7 +413,7 @@ dollar](figure-02-consumer%20price.png)
 Graphique FRED 2024 montrant la baisse du pouvoir d'achat du
 dollar depuis la formation de la Réserve fédérale en
 1913. Le taux d'inflation cumulé depuis 1913 est d'environ
-3,067 %. Toutes les monnaies fiduciaires des banques centrales du monde
+3 067 %. Toutes les monnaies fiduciaires des banques centrales du monde
 suivent un taux de déclin similaire.
 
 * **Plus on crée de l'argent à partir de rien,
@@ -432,7 +431,7 @@ pays, car elles sont toutes indexées sur le dollar américain, car il est la mo
 l'accord de Bretton Woods en 1944.
 * **Aux États-Unis, un taux d'inflation annuel de 2 % est inscrit dans
 le mandat de la Réserve fédérale.**
-* Cela signifie que **vous êtes GARANTI de pouvoir
+* Cela signifie que **vous êtes certain de pouvoir
 acheter 2 % DE MOINS** avec le même billet de 20 $ chaque année.
 * **En mars 2024, le taux d'inflation annuel était de 3,5 %,**
 (beaucoup plus que 2 %, ce qui signifie que vous avez perdu 3,5 % de
@@ -454,15 +453,15 @@ l'inflation est galopante dans tous les secteurs.
 **Inflation moyenne au cours des
 50 dernières années aux États-Unis :**
 
-|  Coût moyen   |   1971  |   2021  |   % d'augmentation  |
+|  Coût moyen   |   1971  |   2021  |   % d'augmentation  |
 | --- | --- | --- | --- |
-|  Salaire   |    9 400 $ |    59 400 $ |    532% |
-|   Maison  |    23 400 $ |    513 000 $ |    2 092% |
-|    Gallon d'essence | 0,36 $    |   4,17 $ |  1 058%   |
-|    Voiture neuve |  3 400 $   |   47 000 $  |    1 282% |
-|   Diplôme universitaire   |  1 400 $   |   26 000 $  |  1 757%   |
-|   Panier d'épicerie  |20 $     |  210 $  |    950% |
-|  Électricité/kWh   |  0,02 $    |   0,15 $  |   650%  |
+|  Salaire   |    9 400 $ |    59 400 $ |    532% |
+|   Maison  |    23 400 $ |    513 000 $ |    2 092% |
+|    Gallon d'essence | 0,36 $    |   4,17 $ |  1 058%   |
+|    Voiture neuve |  3 400 $   |   47 000 $  |    1 282% |
+|   Diplôme universitaire   |  1 400 $   |   26 000 $  |  1 757%   |
+|   Panier d'épicerie  |20 $     |  210 $  |    950% |
+|  Électricité/kWh   |  0,02 $    |   0,15 $  |   650%  |
 
 >**Histoire vraie :**
 ~ Une maison a été achetée en 1976 pour 58 000 $.
@@ -507,9 +506,7 @@ sept de votre travail ont été volées = *Vol de temps.***
 * En **2024**, une voiture neuve coûte plus des **3/4** d'un salaire moyen.
 
 Je suis sûr qu'il est maintenant clair que
-l'inflation
-ne  * **pas** *
-travaille en votre faveur.
+l'inflation ne joue **pas** en votre faveur.
 
 **Remarque :** Tous ces chiffres sont des moyennes et varient en fonction de
 nombreux facteurs. Il n'en reste pas moins que l'inflation est un impôt caché
@@ -535,7 +532,7 @@ introduire quelque chose qu'ils ne peuvent pas arrêter.*
 Graphique montrant l'augmentation exponentielle de la masse monétaire M1 de
 4 000 milliards de dollars en mars 2020 à plus de 18 000 milliards de dollars en juin 2024.
 
-* **Époustouflez-vous ici :** https://usdebtclock.org/
+* **Pour vous faire une idée :** https://usdebtclock.org/
 ---
 * **45 % de tous les dollars américains en existence ont été
 imprimés entre avril 2020 et janvier 2022 !**
@@ -562,11 +559,11 @@ En passant, le PIB mondial n'est que de 84 000 milliards de dollars.*
 
 * **Pour référence**
 
-| **Si vous avez :** | **Vous pouvez dépenser 1 $/seconde** |                |
+| **Si vous avez :** | **Vous pouvez dépenser 1 $/seconde** |                |
 | ------------ | ----------------------- | -------------- |
-| **1 million de dollars**   | soit 11 jours              | = 11 jours    |
-| **1 milliard de dollars**   | pendant 11 680 jours         | = 32 ans   |
-| **1 trillion de dollars**  | pendant 11 680 000 jours     | = 32000 ans |
+| **1 million de dollars**   | soit 11 jours               | = 11 jours    |
+| **1 milliard de dollars**   | pendant 11 680 jours          | = 32 ans   |
+| **1 000 milliards de dollars**  | pendant 11 680 000 jours      | = 32 000 ans |
 
 * Nous sommes tous à la merci de ceux qui ont le pouvoir
 de décider quand imprimer plus, et quels taux d'intérêt
@@ -613,7 +610,7 @@ PDG de Microstrategy*
 
 ---
 
-## NOUS DEVONS BANQUER LES NON-BANQUISÉS
+## NOUS DEVONS DONNER ACCÈS AUX SERVICES FINANCIERS AUX NON-BANCARISÉS
 
 >*Pour 953 millions de personnes dans 20 pays avec des
 monnaies en déclin, Bitcoin représente quelque chose de plus grand
@@ -665,7 +662,7 @@ Auteur : Le prix de demain*
 ## NOUS DEVONS AIDER LES GENS À ÉCHAPPER À LA TYRANNIE ET À L'EFFONDREMENT MONÉTAIRE
 
 * Comme nous l'avons vu, au cours des deux dernières années,
-les gouvernements peuvent et gèlent les comptes
+les gouvernements peuvent geler, et gèlent effectivement, les comptes
 bancaires de ceux avec qui ils sont en désaccord.
 
 >* **Cela montre qu'en substance, votre argent à la banque
@@ -691,7 +688,7 @@ se prémunir contre elles en acquérant du bitcoin dès maintenant.**
 à créer des MNBC, des monnaies numériques de banque centrale.**
 En mai 2020, 35 pays exploraient cette option.
 * En mars 2022, 87 pays examinaient activement,
-ou avaient déjà lancé, une MNBC pilote.
+ou avaient déjà lancé, un projet pilote de MNBC.
 * Au moment où j'écris ces lignes, en juin 2024, 134 pays
 représentant 98 % du PIB mondial sont en phase de
 recherche, de développement, de pilotage ou de lancement.
@@ -731,14 +728,14 @@ ce que vous faites avec votre argent.
 ne savons pas qui utilise un billet de 1 000 pesos aujourd'hui.
 La principale différence avec la MNBC est que **la banque centrale
 aura un contrôle absolu sur les règles et les règlements
-qui détermineront l'utilisation** de **cette expression de
-responsabilité de la banque centrale,** et aussi **nous aurons
+qui détermineront l'utilisation** de **cette expression du
+passif de la banque centrale,** et aussi **nous aurons
 la technologie pour faire appliquer cela.***
 
 ~Agustin Carstens
 Directeur général, BRI - Banque des règlements internationaux
 
->* **Remarque :** Dire **"cette expression de responsabilité de la banque centrale"** implique que votre valeur, votre force vitale, stockée
+>* **Remarque :** Dire **« cette expression du passif de la banque centrale »** implique que votre valeur, votre force vitale, stockée
 sous forme d'argent, est en fait « possédée » par la banque centrale.
 ---
 
