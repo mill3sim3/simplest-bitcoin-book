@@ -18,7 +18,7 @@ remplacer twitter, Telegram et autres.*
 ~ @dergigi
 
 >*nostr est à la liberté de communication
-ce que bitcoin est à la liberté de transaction.*
+ce que Bitcoin est à la liberté de transaction.*
 
 ~ Keysa @SimplestBitcoinBook
 
@@ -163,7 +163,7 @@ que vous avez généré votre paire de clés).
 >5. **Vous pouvez ajouter une photo de profil et une bannière** si vous le souhaitez.
 >6. **Votre compte se connectera automatiquement à quelques
 relais** une fois que vous aurez sélectionné au moins un intérêt (par exemple :
-bitcoin, art, droits de l'homme, sports, musique, etc.)
+Bitcoin, art, droits de l'homme, sports, musique, etc.)
 >7. Selon le client, il suivra automatiquement quelques
 comptes avec un intérêt similaire, ou vous laissera en sélectionner quelques-uns.
 >8. **Vous pouvez ensuite ajouter ou supprimer des relais et des comptes.**
@@ -193,7 +193,7 @@ nom. Ne vous inquiétez pas, c'est plus simple qu'il n'y paraît !
 * Nostr Connect (Desktop)
 
 ## ZAPS
-* Zapper, c'est comme le bitcoin sur nostr ! Créer une économie V4V
+* Zapper, c'est comme Bitcoin sur nostr ! Créer une économie V4V
 (Value4Value), note par note, zap par zap.
 * Vous pouvez envoyer et recevoir des sats (alias zaps) pour des notes ou
 du contenu que vous appréciez en connectant un portefeuille
@@ -279,7 +279,7 @@ réunions en temps réel, totalement privées, remplace Zoom.
 ---
 
 ## REJOIGNEZ-NOUS
-* Nostr est encore très jeune. Tout comme bitcoin, mais beaucoup
+* Nostr est encore très jeune. Tout comme Bitcoin, mais beaucoup
 plus jeune, c'est une expérience populaire, désordonnée, mondiale et ascendante.
 * Si vous voyez la valeur d'un protocole de communications décentralisé, résistant à la censure et open source,
 veuillez vous joindre à nous pour l'utiliser, le développer, offrir
@@ -315,7 +315,7 @@ et toujours,
 ma famille bien-aimée, mes amis,
 et Celui qui respire à travers nous tous,
 pour toujours me voir à travers,
-plus précieux que tout, même bitcoin
+plus précieux que tout, même Bitcoin
 
 PDF gratuit de ce livre et des traductions
 disponibles sur : thesimplestbitcoinbook.net
