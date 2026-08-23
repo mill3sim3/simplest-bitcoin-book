@@ -48,9 +48,9 @@ La vie privée dans une société ouverte nécessite également la cryptographie
 quelque chose, je veux que ce ne soit entendu que par ceux à qui je le destine.
 Si le contenu de mon discours est accessible au monde, je n'ai
 pas de vie privée. Crypter, c'est indiquer le désir de vie privée,
-et crypter avec une cryptographie faible, c'est **indiquer pas trop
+et crypter avec une cryptographie faible, c'est **indiquer peu
 de désir de vie privée. De plus, révéler son identité
-avec assurance quand la valeur par défaut est l'anonymat nécessite la
+avec assurance quand l'anonymat est la valeur par défaut nécessite une
 signature cryptographique.** Nous ne pouvons pas attendre des gouvernements,
 des entreprises ou d'autres grandes organisations impersonnelles qu'elles nous accordent
 la vie privée par leur bienfaisance.
@@ -99,7 +99,7 @@ et avec elle les systèmes de transactions anonymes qu'elle
 rend possibles.
 
 **Pour que la vie privée soit répandue, elle doit faire partie d'un
-con-trat social. Les gens doivent venir et déployer ensemble ces
+contrat social. Les gens doivent venir et déployer ensemble ces
 systèmes pour le bien commun.** La vie privée ne s'étend que dans la mesure où
 la coopération de ses semblables dans la société. Nous, les
 Cypherpunks, sollicitons vos questions et vos préoccupations et
@@ -124,10 +124,10 @@ nous pouvons remercier pour avoir contribué au
 développement de la monnaie numérique peer-to-peer**
 
 * **Satoshi Nakamoto** - Cypherpunk anonyme qui
-a présenté bitcoin au monde en 2009.
+a présenté Bitcoin au monde en 2009.
 * **Nick Szabo** - Bit Gold 2005
 * **Hal Finney**- 2004 Preuve de travail réutilisable (RPoW),
-Auteur de PGP 2.0. Deuxième personne à exécuter le client bitcoin. A reçu la première transaction bitcoin
+Auteur de PGP 2.0. Deuxième personne à exécuter le client Bitcoin. A reçu la première transaction bitcoin
 de 10 bitcoins de Satoshi Nakamoto
 * **Wei Dai** - B-money 1998
 * **Dr Adam Back** - HashCash 1997 - PDG
@@ -137,8 +137,8 @@ Blockstream
  * **John Gilmore**
  * **Timothy C.May**
  * **Eric Hughes**
-* **Philip Zimmermann :** 1991 PGP 1.0, le plus
-cryptage de courrier électronique largement utilisé en utilisation.
+* **Philip Zimmermann :** 1991 PGP 1.0, le logiciel de
+chiffrement de courrier électronique le plus largement utilisé.
 * **David Chaum** - Ecash 1983 et DigiCash 1989
 
 ---
