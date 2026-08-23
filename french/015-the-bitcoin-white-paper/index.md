@@ -12,7 +12,7 @@ En partant, il a permis à Bitcoin d'être une véritable expérience dans
 la nature. Tous ceux qui y travaillent sont des bénévoles dans un
 sens <-> inspirés par le potentiel de libérer l'humanité
 des chaînes d'un système monétaire manipulé et basé sur la dette,
-et au lieu de cela, participer à un réseau mondial, sans confiance,
+et au lieu de cela, participer à un réseau mondial, sans tiers de confiance,
 sans permission, résistant à la censure, véritablement rare, de pair à pair,
 d'argent décentralisé et de paiement monétaire, qui inspire
 un ordre émergent à sortir des cendres fiduciaires.
