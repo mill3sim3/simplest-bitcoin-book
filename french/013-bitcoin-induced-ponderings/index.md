@@ -31,7 +31,7 @@ Vires In Numeris !
 
 ---
 
-## UNE PENSÉE DU TROU DE LAPIN
+## UNE PENSÉE DU TERRIER DU LAPIN
 
 Bitcoin est vraiment une "chose" plutôt fascinante
 
@@ -87,10 +87,10 @@ La vérité
 
 N'a pas besoin de nous
 
-## POURQUOI TOUTE LA VALEUR ACCRÉDITERA BITCOIN
+## POURQUOI TOUTE LA VALEUR AFFLUERA VERS BITCOIN
 
 Il existe des théories des jeux intéressantes qui semblent
-converger lorsqu'il s'agit de bitcoin, ce qui rend la
+converger lorsqu'il s'agit de Bitcoin, ce qui rend la
 probabilité de sa croissance et de sa valeur accrue au fil du temps
 de plus en plus certaine.
 
@@ -101,9 +101,9 @@ Thomas Schelling, le point de Schelling affirme essentiellement
 que **les personnes qui ne peuvent pas nécessairement communiquer
 les unes avec les autres, peuvent toujours converger vers une décision
 ou une ligne de conduite, surtout lorsqu'une solution convaincante
-à un problème se présente** (-> bitcoin)
+à un problème se présente** (-> Bitcoin)
 * De plus, à mesure que de plus en plus de personnes sont attirées par le point de Schelling,
-il attire de plus en plus de personnes (-> bitcoin)
+il attire de plus en plus de personnes (-> Bitcoin)
 
 ## EFFET LINDY
 * En substance, l'effet Lindy stipule **que plus une
